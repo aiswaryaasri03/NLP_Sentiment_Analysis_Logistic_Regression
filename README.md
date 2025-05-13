@@ -1,2 +1,2 @@
-# Tamil Movie Review Sentiment Analysis
-This project applies Natural Language Processing (NLP) techniques to classify Tamil-language movie reviews into Negative, Neutral, and Positive sentiments using a Logistic Regression model.
+# NLP Sentiment Analysis on Tamil Movie Reviews using Logistic Regression
+This project performs Sentiment Analysis on Tamil movie reviews using Natural Language Processing (NLP) techniques and a Logistic Regression model. The sentiment is categorized into Negative, Neutral, and Positive.
