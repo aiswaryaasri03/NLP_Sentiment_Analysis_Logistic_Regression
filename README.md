@@ -1,8 +1,6 @@
 # NLP Sentiment Analysis on Tamil Movie Reviews using Logistic Regression
 This project performs Sentiment Analysis on Tamil movie reviews using Natural Language Processing (NLP) techniques and a Logistic Regression model. The sentiment is categorized into Negative, Neutral, and Positive.
 
----
-
 ## Features
 
 - Text preprocessing: punctuation removal, tokenization, and stopword removal (Tamil-specific).
@@ -15,8 +13,6 @@ This project performs Sentiment Analysis on Tamil movie reviews using Natural La
   - Precision-Recall Curves
   - Pie chart showing class distribution
 
----
-
 ## Dataset
 
 The dataset (`tamil_movie_reviews_train.csv`) contains Tamil movie reviews with the following columns:
@@ -25,3 +21,6 @@ The dataset (`tamil_movie_reviews_train.csv`) contains Tamil movie reviews with 
 - `ReviewInTamil`: Text review in Tamil
 - `Rating`: Numerical rating
 - `Feedback`: Sentiment label (`0 = Negative`, `1 = Neutral`, `2 = Positive`)
+
+## License
+This project is licensed under the MIT License. See LICENSE for details.
